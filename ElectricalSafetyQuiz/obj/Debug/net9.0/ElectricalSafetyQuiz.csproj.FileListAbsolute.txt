@@ -252,10 +252,3 @@
 /Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/obj/Debug/net9.0/compressed/zt7wf8rveu-1z9u04p8t3.gz
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/appsettings.Development.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/appsettings.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/ElectricalSafetyQuiz.deps.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/ElectricalSafetyQuiz.runtimeconfig.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/ElectricalSafetyQuiz.staticwebassets.endpoints.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/bin/Debug/net9.0/net9.0/ElectricalSafetyQuiz.staticwebassets.runtime.json
-/Users/ivanmerkulov/Desktop/c#e/ElectricalSafetyQuiz/obj/Debug/net9.0/ElectricalSafetyQuiz.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElectricalSafetyQuiz")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+391a8d06bba296e3c57784eaab744c19cd801169")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElectricalSafetyQuiz")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElectricalSafetyQuiz")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
